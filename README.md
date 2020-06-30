@@ -1,2 +1,5 @@
 # TroshinSimbirSoft
-test mission weather app for simbir soft
+test mission weather Vue.js app for SimbirSoft
+
+1 npm install
+2 npm run serve
